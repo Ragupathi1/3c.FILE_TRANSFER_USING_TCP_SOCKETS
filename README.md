@@ -64,12 +64,13 @@ while True:
 ```
 ## OUTPUT
 ### CLIENT
-![image](https://github.com/NaliniG007/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/143526042/0761e361-bc54-4364-81cb-456689ff2e8c)
+![image](https://github.com/Ragupathi1/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/143526042/20ea23e6-2205-4f4e-a034-9ab654e4f594)
+
 
 
 
 ### SERVER
-![image](https://github.com/NaliniG007/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/143526042/b555dbdd-a1d2-4c48-9c5c-882f8fbfc9ad)
+![image](https://github.com/Ragupathi1/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/143526042/b1dbf4f1-4183-49a5-a9ef-316a3ee998eb)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
