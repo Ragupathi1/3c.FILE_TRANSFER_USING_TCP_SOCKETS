@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-# NAME : Ragupathi P
-# REGISTER NO : 212221040135
+## Register Number: 212221040135
+## Name: Ragupathi P
 
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
